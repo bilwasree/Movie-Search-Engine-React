@@ -1,0 +1,19 @@
+.inp{
+    
+  text-align: center;
+}
+.container{
+  border: 1px solid black;
+  margin: 10px 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.poster-card{
+  border: 1px solid black;
+  margin: 10px 20px;
+  width: calc(33.33% - 2px - 40px);
+  
+}
+.image{
+  width:100%
+}
