@@ -1,0 +1,28 @@
+  .flx {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px 20px; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .spt {
+    display: flex; 
+    align-items: center;
+    }
+  
+  .spotify-logo {
+    width: 30px; 
+    height: 30px; 
+  }
+  .spt1{
+    margin-top: 850px;
+  }
+  .user-avatar {
+    width: 30px; 
+    height: 30px;
+    border-radius: 50%;
+  }
+  
